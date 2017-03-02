@@ -1,4 +1,4 @@
-# vue-webpack-boilerplate
+# vue-scaffold-template
 
 > A full-featured Webpack setup with hot-reload, lint-on-save & css extraction.
 
